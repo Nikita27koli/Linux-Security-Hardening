@@ -46,14 +46,6 @@ It enforces least‑privilege access, captures high‑fidelity security logs, an
 - Hardened `/tmp` mount (`noexec`, `nosuid`, `nodev`)
 - Hourly ACL drift detection via cron
 
----
-
-## 🧪 What This Demonstrates
-- Practical Linux hardening and access control design  
-- Real‑world log engineering and SIEM integration  
-- Ability to build detection pipelines from scratch  
-- Secure configuration automation using systemd + Bash  
-- Forensic‑ready audit trails and log integrity  
 
 ---
 
